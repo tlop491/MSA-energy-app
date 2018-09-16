@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather:100,200,300,300i,400,400i,700');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab:400,700');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400');
+
+
+Input[type="text"] {
+    /* background-color: transparent;
+    border: 0;
+    border-bottom: solid 1px #f16051;
+    width: 30%;
+    padding-bottom: 4px;
+    color: #fff !important;
+    font-weight: lighter;
+    letter-spacing: 2px;
+    margin-bottom: 30px;
+    margin-right: 20px; */
+    font-size: 20px;
+  }
+
+.wrapper {
+  background: linear-gradient(to right, #1B1B1B, #0F0F0F);
+  height: auto;
+  display: block;
+  justify-content: center;
+  align-items: center;
+}
+
+AppBar  {
+    background:#e67e22
+}
+
+Button[type="submit"]  {
+    font-size: 15px;    
+}
+
+TableCell   {
+    font-size: 10px;
+}
